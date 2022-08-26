@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio-Website
 
-> Description the project.
+> - Created Html file.
+- Successfully added all the elements in my chosen template.
+- Created a CSS stylesheet.
+- Replicated the style and design of my chosen template (template 3)
+- Tested the website to see how well it responds.
+- Ran a linter-style test and ensured it passed.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- HTML
+- CSS
+- Github
+- Gitflow
+- Visual Studio Code
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Cisco**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Cisco-the-wayword)
+- Twitter: [@twitterhandle](https://twitter.com/the_wayword1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/boluwatife-adegboyega-9397a81b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNGz7hXcRTTWAVNixcs9b%2FA%3D%3D)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -70,6 +46,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Cisco-the-wayword/Portfolio-Website/blob/5f8d3f40089dbd770ff825b3e90e45caaaaf663f/MIT.md) licensed.
