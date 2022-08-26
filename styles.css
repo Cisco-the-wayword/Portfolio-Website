@@ -23,7 +23,7 @@ main {
 h4 {
   width: 90px;
   height: 28px;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-weight: 600;
   font-size: 20px;
   line-height: 28px;
@@ -38,7 +38,7 @@ h4 {
 }
 
 header {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 50px;
@@ -52,7 +52,7 @@ header {
 }
 
 article {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 50px;
@@ -69,7 +69,7 @@ article {
 p {
   width: 90%;
   height: 164px;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-size: 25px;
   line-height: 32px;
