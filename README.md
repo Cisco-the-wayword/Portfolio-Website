@@ -1,8 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio-Website
 
-> Description the project.
+> - Created Html file.
+- Successfully added all the elements in my chosen template.
+- Created a CSS stylesheet.
+- Replicated the style and design of my chosen template (template 3)
+- Tested the website to see how well it responds.
+- Ran a linter-style test and ensured it passed.
 
 
 ## Built With
