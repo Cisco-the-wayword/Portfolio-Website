@@ -226,10 +226,7 @@ body {
   gap: 8px;
   width: 305px;
   height: 32px;
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-  margin: auto;
+  margin: auto; 
 }
 
 .ruby {
