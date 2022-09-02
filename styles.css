@@ -561,7 +561,7 @@ button:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   gap: 24px;
   width: 327px;
   padding-bottom: 60px;
@@ -590,7 +590,7 @@ fieldset {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   gap: 24px;
   width: 327px;
   height: 285px;
@@ -633,8 +633,8 @@ textarea::placeholder {
 
 .illustration-contact {
   position: absolute;
-  bottom: 0px;
-  right: 0px;
+  bottom: 0;
+  right: 0;
 }
 
 .get-in-touch {
@@ -672,7 +672,7 @@ footer {
   position: absolute;
   width: 375px;
   height: 189px;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
